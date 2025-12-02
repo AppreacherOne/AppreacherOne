@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an FPS game in Godot<br>🌱 I’m currently learning Godot<br>⚡ Fun fact: I was at LD56
+🌱 I’m currently learning Godot<br>⚡ Fun fact: I was at LD56
 
 
 ## 🌐 Socials:
