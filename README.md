@@ -1,5 +1,5 @@
 # Hi! 👋:
-I'm a solo indie game dev, sadly always out of ideas. I want to learn Rust, and I love playing videogames.
+I'm AppreacherOne, a solo indie game and software developer, and highschool student. My next step is learning Rust.
 
 
 ## 🌐 Socials:
